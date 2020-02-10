@@ -1,6 +1,6 @@
 <h1>🟢 Laravel 5 Framework</h1>
 <p>Laravel est un framework web open-source écrit en PHP respectant le principe modèle-vue-contrôleur et entièrement développé en programmation orientée objet. Laravel est distribué sous licence MIT, avec ses sources hébergées sur GitHub.</p>
-<h1>🟠Institut de l'Internet et du Multimédia</h1>
+<h1>🟠 Institut de l'Internet et du Multimédia</h1>
 <p>Module : Laravel [TD]</p>
 <p>A2 | Axe développement Web, <b>A2DW3</b>.</p>
 <h1>🟡 Environment</h1>
