@@ -1,6 +1,6 @@
 <h1>📕 Laravel 5 Framework</h1>
 <p><i>School project for : <b>Institut de l'Internet et du Multimédia.</b></i></p>
-<h1>ENV</h1>
+<h1>📘 ENVIRONMENT</h1>
 <p>🔹 Windows 10 Professionnal / Ubuntu 18.04 LTS</p>
 <p>🔸 Chocolatey (Microsoft) / Homebrew (Linux)</p>
 <p>🔹 WampServer 3.2</p>
@@ -12,7 +12,7 @@
 <p>🔹 GitHub Desktop : <a href="https://desktop.github.com/">Github Desktop</a>.</p>
 <p>🔸 Laravel 5 <a href="https://laravel.com/">Laravel Documentation</a></p>
 
-<h1>SCREENSHOTS</h1>
+<h1>📙 SCREENSHOTS</h1>
 <h3>Install Laravel 5</h3>
 
 <h1>Legal</h1>
