@@ -6,10 +6,10 @@
 <h1>🟡 Environment</h1>
 <p>🔹 Windows 10 Professionnal / Ubuntu 18.04 LTS</p>
 <p>🔸 Chocolatey (Microsoft) / Homebrew (Linux)</p>
-<p>🔹 WampServer 3.2</p>
-<p>🔸 PHP 7.4.2</p>
-<p>🔹 Apache 2.4</p>
-<p>🔸 MySQL 5.6</p>
+<p>🔹 WampServer 64 3.2.2.2</p>
+<p>🔸 PHP 7.3.12</p>
+<p>🔹 Apache 2.4.41</p>
+<p>🔸 MySQL 8.0.16</p>
 <p>🔹 Composer</p>
 <p>🔸 NodeJS 10.16.3</p>
 <p>🔹 GitHub Desktop : <a href="https://desktop.github.com/">Github Desktop</a>.</p>
