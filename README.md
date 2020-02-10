@@ -1,5 +1,5 @@
 <h1>🟠 Laravel 5 Framework</h1>
-<p><i>School project for : <b>Institut de l'Internet et du Multimédia.</b></i></p>
+<p>➡️<i>School project for : <b>Institut de l'Internet et du Multimédia.</b></i></p>
 
 <h1>🟡 Environment</h1>
 <p>🔹 Windows 10 Professionnal / Ubuntu 18.04 LTS</p>
