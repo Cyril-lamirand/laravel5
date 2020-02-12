@@ -16,7 +16,7 @@
 <p>🔸 Laravel 5 <a href="https://laravel.com/">Laravel Documentation</a></p>
 
 <h1>🟣 SCREENSHOTS</h1>
-<h3>Install Laravel 5</h3>
+<h3>Comming soon !</h3>
 
 <h1>Legal</h1>
 <h3>License</h3>
